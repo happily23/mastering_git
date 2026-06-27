@@ -1,5 +1,6 @@
+
 hey yo everyone, this is my git uguide duh 
 yo, johnny here
+>>>>>>> main
 
-I am adding this from 'feature-branch'
-somehow learn things. 
+this is coming from dev-harini. 
